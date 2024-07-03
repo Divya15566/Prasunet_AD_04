@@ -1,7 +1,17 @@
 # prasunet_AD_04
-This repository contains a classic Tic Tac Toe game implemented in kotlin. 
+TIC-TAC-TOE APP
 
-1.It offers a simple, yet interactive gameplay experience between two players, human vs. human. 
-2.The game features a graphical user interface.
-3.The game includes features such as turn-based gameplay, automatic win detection, and the ability to reset the game for a new match.
-4.Tracks the state of the board, ensuring valid moves and preventing overwriting of existing marks.
+This repository contains the source code for a simple Tic Tac Toe game application built for Android using Kotlin. The app allows two players to compete against each other by taking turns placing their symbols (X or O) on a 3x3 grid.
+
+Features:
+
+1. Two-player gameplay with "X" and "O" symbols.
+2. Functionality to place symbols on the grid.
+3. Win detection for horizontal, vertical, and diagonal lines.
+4. Reset button to start a new game.
+5. Clean and user-friendly interface.
+
+Tech Stack:
+
+1. Kotlin
+2. Android Studio
